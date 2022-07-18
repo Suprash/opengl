@@ -1,0 +1,5 @@
+gcc main.cpp -lstdc++ -o close.exe
+-c only compile and produces a object file 
+-o name the output file
+-l linker
+
