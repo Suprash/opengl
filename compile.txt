@@ -3,3 +3,8 @@ gcc main.cpp -lstdc++ -o close.exe
 -o name the output file
 -l linker
 
+https://gcc.gnu.org/onlinedocs/gcc-12.1.0/gcc/Overall-Options.html#Overall-Options
+
+https://gcc.gnu.org/onlinedocs/gcc-12.1.0/gcc/Overall-Options.html#Overall-Options
+
+
